@@ -57,9 +57,16 @@ body {
     padding-right: 50px;
 }
 
-.projects-list {
+.project-list {
     color: #062553;
+    /* transition: color 300ms linear; */
 }
+
+/* project-list:hover,
+project-list:focus {
+    color: #fb6d3a;
+    font-weight: bold;
+} */
 
 .project-bracket {
     font-style: normal;
