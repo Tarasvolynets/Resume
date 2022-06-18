@@ -37,30 +37,28 @@ body {
     font-weight: bold;
 }
 
-.projects-list {
-    padding: 0;
+.ol_project_info {
+    color:#FF9900;
+    padding: 5px;
+    width: 700px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+.ol_numbers {
+    margin-bottom: 10px;
+    padding-left: 30px;
+}
+
+.ol_text {
+    color: #062553;
+    font-weight: normal;
     padding-right: 50px;
 }
 
-.projects-item {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000;
-}
-
-.project, 
-.project-link {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
-    color: #595959;
-}
-
-.project-link {
-    margin-left: 10px;
+.projects-list {
+    color: #062553;
 }
 
 .project-bracket {
