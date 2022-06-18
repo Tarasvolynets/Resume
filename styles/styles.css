@@ -10,7 +10,7 @@ body {
     width: 1200px;
     background-color: #F2F2F2;
     margin: 0 auto;
-    box-shadow: 10px 10px 30px #062553;
+    box-shadow: 6px 6px 20px #062553;
 }
 
 /* .about styles */
@@ -150,7 +150,16 @@ body {
     color: #cccccc;
     font-weight: 400;
     margin-bottom: 15px;
+    text-decoration: none;
+    transition: color 300ms linear;
 }
+
+.contact_reference:hover,
+.contact_reference:focus {
+    color:#fb6d3a;
+    font-weight:bold;
+}
+
 
 .skills_division {
     width: 370px;
