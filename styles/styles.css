@@ -67,13 +67,10 @@ body {
     font-weight: bold;
 }
 
-.title {
-  font-style: normal;
-    font-weight: bold;
-    font-size: 22px;
-    line-height: 27px;
-    color: #000000;
-    margin-bottom: 10px;
+.h3_titles {
+    color: #FF9900;
+    font-size: 25px;
+    font-style: bold;
 }
 
 .projects-list {
