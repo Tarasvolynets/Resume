@@ -37,11 +37,9 @@ body {
     font-weight: bold;
 }
 
-
-
 .projects-list {
     padding: 0;
-    margin-left: 15px;
+    padding-right: 50px;
 }
 
 .projects-item {
@@ -75,81 +73,48 @@ body {
 
 /* work styles */
 
-.work {
-    margin-bottom: 45px;
+.container_work {
+    color: #062553;
+    padding: 5px;
+    margin-left: 50px;
+    width: 550px;
 }
 
-.work-position {
-    font-style: normal;
+.job_company {
+    color: #FF9900;
     font-weight: bold;
-    font-size: 16px;
-    line-height: 20px;
-    color: #000000;
-    margin-bottom: 10px;
+    font-style: italic;
 }
 
-.organization {
-    font-weight: bold;
-    font-size: 16px;
-    line-height: 20px;
-    color: #FB6D3A;
-}
-
-.period {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 15px;
-    color: #A8A8A8;
-    margin-bottom: 10px;
-}
-
-.line {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 15px;
-    color: #000;
-}
-
-.work-list-item {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
-    color: #595959;
-}
-
-.work-list {
-    padding: 0;
-    margin-left: 15px;
+.job_years {
+    color: #FF9900;
+    font-style: italic;
 }
 
 /* Education styles */
 
-.container.education {
+/* .container.education {
     color: #062553;
     padding: 5px;
     margin-left: 50px;
     width: 300px;
+} */
+
+.li_education_dot {
+    color: #FF9900;
 }
 
-.university {
-    font-style: normal;
+.edu_title {
+    color: #062553;
     font-weight: bold;
-    font-size: 16px;
-    line-height: 20px;
-    color: #FB6D3A;
-    margin-bottom: 10px;
 }
 
-.department {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 17px;
-    color: #000;
-    margin-bottom: 10px;
+.edu_years {
+    color: #062553;
+}
+
+.edu_college {
+    color: #062553;
 }
 
 /* sidebar styles */
