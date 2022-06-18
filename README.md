@@ -1,2 +1,2 @@
 # Resume
-Optional Resume (It needs to be revised by myself)
+Optional Resume (It should be foolfilled with new data)
