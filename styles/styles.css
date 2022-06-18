@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: row-reverse;
     width: 1200px;
-    background-color: #F5F7FA;
+    background-color: #F2F2F2;
     margin: 0 auto;
     box-shadow: 10px 10px 30px #062553;
 }
@@ -192,13 +192,14 @@ body {
 /* sidebar styles */
 
 .sidebar {
-    background-color: #1E2939;
-    padding-top: 40px;
-    width: 370px;
+    background-color: #062553;
+    color: white;
+    margin: 5px;
+    padding: 50px 10px 10px 10px;
+    width: 400px;
 }
 
-.photo {
-    width: 370px;
+.sidebar_image {
     margin-bottom: 50px;
 }
 
