@@ -1,15 +1,16 @@
 body {
-    font-family: 'Montserrat', sans-serif;
-    background-color: #F5F7FA;
+    font-family: 'Roboto Mono', monospace;
 }
 
 /* main styles */
 
-.main {
+.container_root {
     display: flex;
     flex-direction: row-reverse;
     width: 1200px;
+    background-color: #F5F7FA;
     margin: 0 auto;
+    box-shadow: 10px 10px 30px #062553;
 }
 
 .main-content {
@@ -154,8 +155,11 @@ body {
 
 /* Education styles */
 
-.education {
-    margin-bottom: 50px;
+.container.education {
+    color: #062553;
+    padding: 5px;
+    margin-left: 50px;
+    width: 300px;
 }
 
 .university {
