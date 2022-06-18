@@ -13,16 +13,15 @@ body {
     box-shadow: 10px 10px 30px #062553;
 }
 
-/* .main-content {
-    background-color: #fff;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px 90px;
-} */
-
 /* .about styles */
 
-.container.about {
-    /* background-color: #062553; */
+.h3_titles {
+    color: #FF9900;
+    font-size: 25px;
+    font-style: bold;
+}
+
+.container_about {
     width: 350px;
     font-weight: 900;
     color: #062553;
@@ -31,35 +30,6 @@ body {
     margin-bottom: 20px;
 }
 
-/* .about-position {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 17px;
-    color: #000000;
-    margin-bottom: 20px;
-} */
-
-/* .about-name {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 45px;
-    line-height: 55px;
-    color: #000000;
-    margin-bottom: 25px;
-} */
-
-.about-description {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
-    color: #595959;
-    width: 400px;
-}
-
-/* .about styles */
-
 .container_projects {
     color: #FF9900;
     padding: 5px;
@@ -67,11 +37,7 @@ body {
     font-weight: bold;
 }
 
-.h3_titles {
-    color: #FF9900;
-    font-size: 25px;
-    font-style: bold;
-}
+
 
 .projects-list {
     padding: 0;
